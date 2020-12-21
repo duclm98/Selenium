@@ -1,0 +1,17 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^87.0.4",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}

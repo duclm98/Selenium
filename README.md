@@ -1,0 +1,1 @@
+Cần phải cài đặt [geckodriver](https://github.com/mozilla/geckodriver/releases/) (chạy trên Firefox) hoặc [chromedriver](http://chromedriver.storage.googleapis.com/index.html) (chạy trên Chrome)

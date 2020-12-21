@@ -1,0 +1,56 @@
+1 1 Subtract   0 
+2 1 Subtract 5  5 
+3 1 Subtract  -4 4 
+4 1 Subtract a4 7 NaN 
+5 1 Subtract 100 rt1 NaN 
+6 1 Subtract t1 b1 NaN 
+7 1 Subtract  5 6 -1 
+8 1 Subtract 5  6 -1 
+9 1 Subtract  5  6 -1 
+10 1 Subtract 2/3 4 NaN 
+11 1 Subtract -0.5 1 -1.5 
+12 1 Subtract 100 0 100 
+13 1 Subtract -15 -23 8 
+14 1 Subtract 13 -20 33 
+1 1 Subtract   0 
+2 1 Subtract 5  5 
+3 1 Subtract  -4 4 
+4 1 Subtract a4 7 NaN 
+5 1 Subtract 100 rt1 NaN 
+6 1 Subtract t1 b1 NaN 
+7 1 Subtract  5 6 -1 
+8 1 Subtract 5  6 -1 
+9 1 Subtract  5  6 -1 
+10 1 Subtract 2/3 4 NaN 
+11 1 Subtract -0.5 1 -1.5 
+12 1 Subtract 100 0 100 
+13 1 Subtract -15 -23 8 
+14 1 Subtract 13 -20 33 
+1 1 Subtract   0 
+2 1 Subtract 5  5 
+3 1 Subtract  -4 4 
+4 1 Subtract a4 7 NaN 
+5 1 Subtract 100 rt1 NaN 
+6 1 Subtract t1 b1 NaN 
+7 1 Subtract  5 6 -1 
+8 1 Subtract 5  6 -1 
+9 1 Subtract  5  6 -1 
+10 1 Subtract 2/3 4 NaN 
+11 1 Subtract -0.5 1 -1.5 
+12 1 Subtract 100 0 100 
+13 1 Subtract -15 -23 8 
+14 1 Subtract 13 -20 33 
+1 1 Subtract   0 
+2 1 Subtract 5  5 
+3 1 Subtract  -4 4 
+4 1 Subtract a4 7 NaN 
+5 1 Subtract 100 rt1 NaN 
+6 1 Subtract t1 b1 NaN 
+7 1 Subtract  5 6 -1 
+8 1 Subtract 5  6 -1 
+9 1 Subtract  5  6 -1 
+10 1 Subtract 2/3 4 NaN 
+11 1 Subtract -0.5 1 -1.5 
+12 1 Subtract 100 0 100 
+13 1 Subtract -15 -23 8 
+14 1 Subtract 13 -20 33 
